@@ -1,2 +1,1 @@
-# agribusiness-week1-data-analysis
-Week 1 Agribusiness Data Analysis Internship Project | Agricultural Market Trends, KPI Analysis, Data Exploration, and Python-Based Analytics.
+# Data folder\n\nDownload a permitted public agricultural market-price dataset and save a working copy as `market_prices.csv`. The illustrative script expects `date` and `modal_price` columns. Check the actual source schema and usage terms first. Do not commit restricted or confidential data.\n
